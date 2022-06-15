@@ -1,7 +1,7 @@
 <h2 align="center"> Olá, sou o Antônio Marcelino 👋</h2>
 
 <p align="center">
-  Desenvolvedor Front-End
+  Desenvolvedor Front-End Júnior
 </p>
 
 ### 🚀 Tecnologias:
